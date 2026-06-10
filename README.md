@@ -8,9 +8,7 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 #### Patterns
 
-* [x] 1-10
-* [x] 14-16
-* [ ] 11-13
+* [x] 1-16
 * [ ] 17-22
 
 #### Math
@@ -27,5 +25,5 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 ## Revision List
 
-* Pattern 10
-* Pattern 16
+* Pattern 11
+* Pattern 13
