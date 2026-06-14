@@ -8,7 +8,7 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 #### Patterns
 
-* [x] 1-16
+* [x] 1-17
 * [ ] 17-22
 
 #### Math
@@ -23,7 +23,18 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 * [ ] Not Started
 
+### Arrays
+
+#### Easy
+- [x] Largest Element
+- [x] Second Largest Element
+- [x] Linear Search
+- [x] Check if Array is Sorted
+
 ## Revision List
 
+* Pattern 10
 * Pattern 11
 * Pattern 13
+* Pattern 16
+* Second Largest Element
