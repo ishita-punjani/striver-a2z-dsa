@@ -12,7 +12,10 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 #### Math
 
-* [ ] Not Started
+* [X] Count all Digits of a Number
+* [X] Reverse a number
+* [X] Palindrome Number
+
 
 #### Hashing
 
