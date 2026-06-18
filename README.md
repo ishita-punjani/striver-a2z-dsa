@@ -15,6 +15,10 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 * [X] Count all Digits of a Number
 * [X] Reverse a number
 * [X] Palindrome Number
+* [X] GCD of Two Numbers
+* [X] Check if the Number is Armstrong
+* [X] Print all Divisors
+* [X] Check for Prime Number
 
 
 #### Hashing
