@@ -10,7 +10,7 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 - [X] Math
 
-- [ ] Hashing
+- [X] Hashing
 
 - [X] Recursion
 
@@ -26,8 +26,6 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 ## Revision List
 
-* Pattern 10
-* Pattern 11
-* Pattern 13
-* Pattern 16-22
+* Patterns
 * Second Largest Element
+* Highest Occurring Element in an Array
