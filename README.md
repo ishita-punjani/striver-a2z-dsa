@@ -23,6 +23,7 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 - [x] Check if Array is Sorted
 - [X] Remove duplicates from Sorted Array
 - [X] Union of two sorted arrays
+- [X] Find missing number
 
 ## Revision List
 
