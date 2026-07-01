@@ -14,6 +14,26 @@ My solutions to the Striver A2Z DSA Sheet using C++.
 
 - [X] Recursion
 
+### Sorting Techniques
+
+#### Sorting I
+
+- [X] Selection Sort
+
+- [X] Bubble Sort
+
+- [X] Insertion Sorting
+
+#### Sorting II
+
+- [X] Merge Sorting
+
+- [X] Recursive Bubble Sort
+
+- [X] Recursive Insertion Sort
+
+- [X] Quick Sorting
+
 ### Arrays
 
 #### Easy
